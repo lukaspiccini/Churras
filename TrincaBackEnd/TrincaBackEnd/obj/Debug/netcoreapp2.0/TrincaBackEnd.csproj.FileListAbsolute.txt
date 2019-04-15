@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Trinca\TrincaBackEnd\TrincaBackEnd\bin\Debug\netcoreapp2.0\TrincaBackEnd.deps.json
+C:\Users\user\Documents\Trinca\TrincaBackEnd\TrincaBackEnd\bin\Debug\netcoreapp2.0\TrincaBackEnd.runtimeconfig.json
+C:\Users\user\Documents\Trinca\TrincaBackEnd\TrincaBackEnd\bin\Debug\netcoreapp2.0\TrincaBackEnd.runtimeconfig.dev.json
+C:\Users\user\Documents\Trinca\TrincaBackEnd\TrincaBackEnd\bin\Debug\netcoreapp2.0\TrincaBackEnd.dll
+C:\Users\user\Documents\Trinca\TrincaBackEnd\TrincaBackEnd\obj\Debug\netcoreapp2.0\TrincaBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Trinca\TrincaBackEnd\TrincaBackEnd\obj\Debug\netcoreapp2.0\TrincaBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Trinca\TrincaBackEnd\TrincaBackEnd\obj\Debug\netcoreapp2.0\TrincaBackEnd.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Trinca\TrincaBackEnd\TrincaBackEnd\obj\Debug\netcoreapp2.0\TrincaBackEnd.AssemblyInfo.cs
+C:\Users\user\Documents\Trinca\TrincaBackEnd\TrincaBackEnd\bin\Debug\netcoreapp2.0\TrincaBackEnd.pdb
+C:\Users\user\Documents\Trinca\TrincaBackEnd\TrincaBackEnd\obj\Debug\netcoreapp2.0\TrincaBackEnd.dll
+C:\Users\user\Documents\Trinca\TrincaBackEnd\TrincaBackEnd\obj\Debug\netcoreapp2.0\TrincaBackEnd.pdb
